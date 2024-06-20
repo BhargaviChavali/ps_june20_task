@@ -17,10 +17,7 @@ for(i of arr1)
                     }
             }
     }
-    console.log(" ");
 console.log(count);
-console.log(" ");
-
 
 
 // 2 : Program to print the rest of the minutes to become a perfect time.
@@ -44,7 +41,7 @@ for(i of arr2)
                     }
             }
     }
-    console.log(" ");
+
 
 // 3 : Program to print the next perfect time near to the given times.
 // input: arr = [{Time1:"10:45", Time2:"12:50", Time3:"11:00"}]
